@@ -34,3 +34,7 @@ mongoose.connect(process.env.MONGO_URI)
   .catch((err) => {
     console.error('❌ MongoDB Connection Failed:', err);
   });
+
+app.get('/', (req, res) => {
+  res.send('🚀 Poshaakwala backend is live!');
+});
