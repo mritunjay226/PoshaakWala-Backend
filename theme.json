@@ -1,0 +1,8 @@
+{
+  "name": "Solar Bloom",
+  "primary": "#ffcc00",
+  "heroBg": "#fffbe6",
+  "button": "#ffcc00",
+  "cardBg": "rgba(255, 204, 0, 0.1)",
+  "textCol": "#000"
+}
